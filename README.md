@@ -18,7 +18,7 @@ There are a couple of ways to view or run the notebook by using one of the follo
 
 ### **View the Notebook in MyBinder**:
 Click the link below to launch the notebook in an interactive MyBinder environment. This method is best for viewing and interacting with the Notebook, but does not allow editing of the project.
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArdenAChen/nba-playoff-comebacks/HEAD?filepath=notebooks/NBA%20Comeback%20Percentage%20Project.ipynb)
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArdenAChen/nba-playoff-comebacks/blob/main/notebooks/NBA%20Comeback%20Percentage%20Project.ipynb)
 
 ### **Running the Notebook Locally**:
 This method allows for editing of the Notebook.
