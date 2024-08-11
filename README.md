@@ -13,10 +13,12 @@ This data science project analyzes how several factors affect the chance of a te
 
 ## Installation
 1. **Clone the repository**
-   * Clone the repository using the following command: `git clone https://github.com/ArdenAChen/nba-playoff-comebacks.git`
+   * Clone the repository to your local machine using the following command: ```git clone https://github.com/ArdenAChen/nba-playoff-comebacks.git
+     cd nba-playoff-comebacks```
 3. Install necessary packages by inputting: `pip install -r requirements.txt`.
 
 ## Usage
+* TODO: Make sure to add a link to nbviewer so people who don't want to set everything up but want to use the hyperlinks can just go on that website
 
 ## Project Structure
 * `data/`: Contains the dataset used in the analysis
