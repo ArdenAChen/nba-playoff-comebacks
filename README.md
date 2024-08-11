@@ -13,7 +13,7 @@ This data science project analyzes how several factors affect the chance of a te
 * [License](#license)
 * [Future Work](#future-work)
 * [Acknowledgments](#acknowledgments)
-* [Contact](#contact)
+* [Contact Information](#contact-information)
 
 ## Setup Instructions
 There are a couple of ways to view or run the notebook by using one of the following options:
@@ -70,5 +70,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 * Thanks to [Land Of Basketball](https://www.landofbasketball.com/), [Basketball Reference](https://www.basketball-reference.com/), [Wikipedia](https://www.wikipedia.org/), and [The Official NBA Website](https://www.nba.com/) for providing the data.
 
-## Contact
+## Contact Information
 For any questions or feedback, please contact me at `aac@ucsb.edu`.
