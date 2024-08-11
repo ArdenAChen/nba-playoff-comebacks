@@ -4,4 +4,7 @@
 This data science project analyzes how several factors affect the chance of a team making a comeback in a playoff series after trailing 0-2 in a series.
 
 ## Table of Contents
+* [Introduction](#nba-comeback-percentage-project)
 * [Installation](#installation)
+
+## Installation
