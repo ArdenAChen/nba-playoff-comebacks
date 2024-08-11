@@ -44,7 +44,7 @@ This method allows for editing of the Notebook.
 ## Models and Analysis
 The Notebook tests several different attributes of the data to see if there is any correlation between the attribute and the odds of making a comeback when an NBA team is trailing 0-2 in a series.
 * Factors that had a moderate or significant correlation or connection to making a comeback are included as factors in a formula that calculates the chance a comeback will happen based on those factors.
-  * This formula is further explained in the Notebook, adds multipliers based on the factors, and takes into account things like sample size and $R^2$ scores.
+  * This formula adds multipliers based on the factors and takes into account things like sample size and $R^2$ scores. More on this formula can be found in the Notebook.
 
 ## Results
 Using the DataFrame, I found that there were five total factors which had some connection to the odds of a comeback. More details on which factors, as well as what each factor means alongside analysis are provided in the Notebook.
