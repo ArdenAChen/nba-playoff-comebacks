@@ -11,6 +11,8 @@ This data science project analyzes how several factors affect the chance of a te
 * [Results](#results)
 * [Contributing](#contributing)
 * [License](#license)
+* [Future Work](#future-work)
+* [Acknowledgments](#acknowledgments)
 * [Contact](#contact)
 
 ## Setup Instructions
@@ -55,6 +57,18 @@ Any constructive criticism is greatly appreciated. Feel free to let me know abou
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Future Work
+* Implement machine learning models to improve accuracy
+* Finding more correlations with other statistics
+  * Utilizing other DataFrames that record statistics such as individual player statistics, offensive rating, defensive rating, etc.
+  * Regular season win-loss record or regular season win-loss record differential could be a good indicator as well.
+* Accounting for era for each factor
+* Establishing more concrete ranges for eras
+  * I only really split the data set into the 1900s versus the 2000s, so there is definitely potential for improvement in this regard.
+
+## Acknowledgments
+* Thanks to [Land Of Basketball](https://www.landofbasketball.com/), [Basketball Reference](https://www.basketball-reference.com/), [Wikipedia](https://www.wikipedia.org/), and [The Official NBA Website](https://www.nba.com/) for providing the data.
 
 ## Contact
 For any questions or feedback, please contact me at `aac@ucsb.edu`.
