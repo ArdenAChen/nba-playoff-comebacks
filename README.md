@@ -1,7 +1,7 @@
 # NBA Comeback Percentage Project
 
 ## Description
-This data science project analyzes how several factors affect the chance of a team making a comeback in a playoff series after trailing 0-2 in a series. This project is partially inspired by the statistic that 7.41% of teams make a comeback when down 0-2. I was interested in seeing how some easily accessible statistics like playoff seeding would change the odds of a comeback.
+This data analytics project analyzes how several factors affect the chance of a team making a comeback in a playoff series after trailing 0-2 in a series. This project is partially inspired by the statistic that 7.41% of teams make a comeback when down 0-2. I was interested in seeing how some easily accessible statistics like playoff seeding would change the odds of a comeback.
 
 ## Table of Contents
 * [Introduction](#nba-comeback-percentage-project)
@@ -45,8 +45,8 @@ This method allows for editing of the Notebook.
 * `requirements.txt`: List of Python packages and libraries required to run the project
 
 ## Models and Analysis
-The Notebook tests several different attributes of the data to see if there is any correlation between the attribute and the odds of making a comeback when an NBA team is trailing 0-2 in a series.
-* Factors that had a moderate or significant correlation or connection to making a comeback are included as factors in a formula that calculates the chance a comeback will happen based on those factors.
+I plot and analyze different attributes of each playoff series to see if there's any correlation between the attribute and the odds of making a comeback when an NBA team is trailing 0-2 in a series.
+* Factors that had a moderate or significant correlation or connection to making a comeback are compacted into a simple formula that calculates the chance a comeback will happen based on those factors.
   * This formula adds multipliers based on the factors and takes into account things like sample size and $R^2$ scores. More on this formula can be found in the Notebook.
 
 ## Results
