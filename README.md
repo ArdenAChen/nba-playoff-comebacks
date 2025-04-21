@@ -1,4 +1,4 @@
-# NBA Comeback Percentage Project
+# NBA Playoff Series Comebacks
 
 ## Description
 This data analytics project analyzes how several factors affect the chance of a team making a comeback in a playoff series after trailing 0-2 in a series. This project is partially inspired by the statistic that 7.41% of teams make a comeback when down 0-2. I was interested in seeing how some easily accessible statistics like playoff seeding would change the odds of a comeback.
